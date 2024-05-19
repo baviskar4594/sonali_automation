@@ -111,7 +111,7 @@ public class NewUser {
 //		        	
 //		        
 //		        driver.findElement(By.xpath("//button[text()='Add']")).click();
-
+		System.out.println("jncjvfv");
 //	
 	}
 		    private static void clearAndSendKeys(WebDriver driver, String name, String value) 
